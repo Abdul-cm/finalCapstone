@@ -4,9 +4,9 @@
 The final capstone is a simple tool that quickly determines a user's age in years based on their birthdate. It serves as a practical demonstration of core programming concepts.
 
 ## Table of Contents
-** Installation
-** usages
-** credits 
+ Installation
+ usages
+ credits 
 
 ## Installation
 ### Prerequisites
